@@ -1,0 +1,37 @@
+<resources>
+    <!-- Main Strings -->
+    <string name="app_name" translatable="false">MoneyManager</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_sub" translatable="false">Subscriptions</string>
+
+    <!-- Descriptions -->
+    <string name="fab_description" translatable="false">Floating Action</string>
+    <string name="fab_description_add" translatable="false">Add Floating Action</string>
+    <string name="fab_description_minus" translatable="false">Minus Floating Action</string>
+    <string name="scrollview_description" translatable="false">Scroll View</string>
+    <string name="remove_button_description" translatable="false">Remove Bank Object</string>
+
+    <!-- Format -->
+    <string name="initial_string">£0</string>
+    <string name="money_format_gbp">£%.2f</string>
+    <string name="money_format_eur">€%.2f</string>
+    <string name="date_format">(dd/mm)</string>
+
+    <!-- Currencies -->
+    <string-array name="currency_array">
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+
+    <!-- Additional String -->
+    <string name="title">Title</string>
+    <string name="enter">Enter</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="bank">Bank</string>
+    <string name="enter_dialog_title">Enter Title</string>
+    <string name="enter_subscription_title">Enter Subscription</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_date">Enter Date (dd/mm)</string>
+</resources>
