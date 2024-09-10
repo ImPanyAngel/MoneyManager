@@ -23,6 +23,7 @@
         android:layout_marginEnd="10dp"
         android:clickable="true"
         android:contentDescription="@string/fab_description_minus"
+        android:backgroundTint="@color/buttons"
         app:layout_constraintEnd_toStartOf="@+id/btnDelete"
         app:layout_constraintTop_toTopOf="@+id/fabAdd"
         app:srcCompat="@drawable/baseline_remove_24" />
@@ -34,6 +35,7 @@
         android:layout_marginEnd="20dp"
         android:clickable="true"
         android:contentDescription="@string/fab_description_add"
+        android:backgroundTint="@color/buttons"
         app:layout_constraintEnd_toStartOf="@+id/fabMinus"
         app:layout_constraintTop_toTopOf="@+id/tvBankTitle"
         app:srcCompat="@drawable/baseline_add_24" />
