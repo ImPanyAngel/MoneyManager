@@ -6,8 +6,8 @@ The **Money Manager App** is an Android application built using Android Studio t
 
 ## Features
 - Track income and expenses
-- Categorize transactions
-- View summary and transaction history
+- Track subscriptions
+- Currency conversion between EUR and GBP
 - User-friendly UI
 
 ## Installation
